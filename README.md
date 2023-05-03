@@ -1,1 +1,1 @@
-https://caslantas.github.io/hesapMakinesi/
+https://caslantas.github.io/hesapMakinasi/
